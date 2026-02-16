@@ -32,7 +32,7 @@ class MyException(Exception):
     """
     Custom exception class for handling handling the error in the project 
     """
-    def __inti__(self, error_message: str, error_detail: sys):
+    def __init__(self, error_message: str, error_detail: sys):
         """
         Initializes the MyException with a detailed error message
         
