@@ -164,4 +164,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 **Author**: Manish Jangir
 
-**Contact**: [LinkedIN Profile/Email]
+**Contact**: [LinkedIn-Id](https://www.linkedin.com/in/manish-jangir-183388250/)
